@@ -1,0 +1,7 @@
+Oil Change,Normal,100.0
+Engine Repair,Major,500.0
+Car Wash,Normal,50.0
+Tire Check,Normal,30.0
+Full Services,Major,1000.0
+Transmission Fix,Major,800.0
+Break check,Normal,200.0

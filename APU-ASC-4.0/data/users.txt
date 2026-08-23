@@ -1,0 +1,43 @@
+CUST001,Angeline Oh,angeline@email.com,21c2cb0d,Customer
+CUST002,Sarah Smith,sarah@email.com,21c2cb0d,Customer
+CUST003,Michael Johnson,michael@email.com,21c2cb0d,Customer
+CUST004,Emily Davis,emily@email.com,21c2cb0d,Customer
+CUST005,Robert Wilson,robert@email.com,21c2cb0d,Customer
+CUST006,Jennifer Lee,jennifer@email.com,21c2cb0d,Customer
+CUST007,David Martinez,davidM@email.com,21c2cb0d,Customer
+CUST008,Lisa Anderson,lisa.cust@email.com,21c2cb0d,Customer
+CUST009,James Taylor,james@email.com,21c2cb0d,Customer
+CUST010,Maria Garcia,maria@email.com,21c2cb0d,Customer
+CUST011,William Green,william@email.com,21c2cb0d,Customer
+CUST012,Jessica Lim,jessica@email.com,21c2cb0d,Customer
+CUST013,Samuel Tan,samuel@email.com,21c2cb0d,Customer
+CUST014,Chloe Wong,chloe@email.com,21c2cb0d,Customer
+CUST015,Daniel Lee,daniel@email.com,21c2cb0d,Customer
+CUST016,Ahmad Faiz,faiz@email.com,21c2cb0d,Customer
+CUST017,Siti Nurul,siti@email.com,21c2cb0d,Customer
+CUST018,Lim Wei Jie,weijie@email.com,21c2cb0d,Customer
+CUST019,Tan Mei Ling,meiling@email.com,21c2cb0d,Customer
+CUST020,Jay Wong,jay@email.com,21c2cb0d,Customer
+CUST021,Chong Kai Xin,kaixin@email.com,21c2cb0d,Customer
+CUST022,Muhammad Hafiz,hafiz@email.com,21c2cb0d,Customer
+CUST023,Nur Aisyah,aisyah@email.com,21c2cb0d,Customer
+CUST024,Lee Jia Hao,jiahao@email.com,21c2cb0d,Customer
+CUST025,Michelle Tan,michelle@email.com,21c2cb0d,Customer
+CUST026,Eric Tan,eric.tan@email.com,21c2cb0d,Customer
+CUST027,Nurul Izzah,nurulizzah@email.com,21c2cb0d,Customer
+CUST028,Jason Lee,jasonlee@email.com,21c2cb0d,Customer
+CUST029,Aisyah Sofea,aisyahsofea@email.com,21c2cb0d,Customer
+CUST030,Teo Xin Yi,xinyi@email.com,21c2cb0d,Customer
+CUST031,Hafiz Rahman,hafizrahman@email.com,21c2cb0d,Customer
+CUST032,Melissa Wong,melissa@email.com,21c2cb0d,Customer
+CUST033,Adrian Lim,adrian@email.com,21c2cb0d,Customer
+CUST034,Siti Amina,sitiamina@email.com,21c2cb0d,Customer
+CUST035,Leonard Chua,leonard@email.com,21c2cb0d,Customer
+TECH001,Ahmad Ali,ahmad@email.com,375d1619,Technician
+TECH002,Fatimah Rahman,fatimah@email.com,375d1619,Technician
+TECH003,Chen Wei,chen@email.com,375d1619,Technician
+STAFF01,lisa wong,yapgenie8@gmail.com,bcf9ac63,Counter Staff
+STAFF02,David Brown,david@email.com,bcf9ac63,Counter Staff
+STAFF03,Jessica White,jessica@email.com,bcf9ac63,Counter Staff
+MGR001,Admin Manager,admin@email.com,d5f8dc30,Manager
+CUST036,Jennie Kim,jennie@email.com,21c2cb0d,Customer

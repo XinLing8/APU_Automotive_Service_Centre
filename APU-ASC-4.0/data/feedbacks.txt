@@ -1,0 +1,41 @@
+2026-02-22, 16:20, APP0008, CUST007, Good value for money
+2026-02-22, 16:50, APP0008, TECH001, Thank you for visiting!
+2026-02-27, 10:30, APP0010, CUST008, Friendly staff and efficient service
+2026-02-27, 11:00, APP0010, TECH002, Come back soon!
+2026-03-10, 11:30, APP0015, CUST001, Impressive attention to detail
+2026-03-10, 12:00, APP0015, TECH003, Your satisfaction matters to us!
+2026-03-12, 14:30, APP0016, CUST010, Professional and courteous service
+2026-03-12, 15:00, APP0016, TECH002, Your trust is appreciated!
+2026-04-08, 10:45, APP0024, CUST002, Amazing turnaround and quality work
+2026-04-08, 11:15, APP0024, TECH002, Thanks for the repeat business!
+2026-04-10, 09:00, APP0001, CUST001, Good Service
+2026-04-10, 09:30, APP0001, TECH501, Thanks for you review!
+2026-04-12, 11:00, APP0026, CUST004, Professional team, highly recommended
+2026-04-12, 11:30, APP0026, TECH003, Appreciate the feedback!
+2026-04-20, 15:00, APP0029, CUST006, Tire replacement done perfectly
+2026-04-20, 15:30, APP0029, TECH003, Quality is our priority
+2026-04-22, 16:45, APP0030, CUST007, Will definitely come back
+2026-04-22, 17:15, APP0030, TECH003, We look forward to serving you again!
+2026-04-30, 11:04, APP0001, CUST001, Great Service!!! I like it...
+2026-04-30, 11:14, APP0001, CUST001, Will come back again!!!!
+2026-04-30, 11:14, APP0001, CUST001, test
+2026-04-30, 11:14, APP0001, CUST001, hihi
+2026-05-02, 13:06, APP0001, CUST001, test2
+2026-05-02, 14:28, APP0015, TECH001, Hihi! Leave a 5 star review ya~~,. ,.
+2026-05-02, 14:29, APP0015, CUST001, Depends~~
+2026-05-02, 15:03, APP0015, TECH001, test
+2026-05-02, 21:19, APP0001, TECH001, will do thanks!
+2026-05-03, 13:45, APP0033, CUST009, Quick turnaround time, great service
+2026-05-03, 14:15, APP0033, TECH001, We aim to please!
+2026-05-10, 10:30, APP0041, CUST005, Very knowledgeable technicians
+2026-05-10, 11:00, APP0041, TECH001, Happy to help!
+2026-05-18, 14:49, APP0024, TECH002, Remember 05/14
+2026-05-18, 14:49, APP0024, TECH002, hihi
+2026-05-18, 14:53, APP0045, TECH001, need feedback to customer!!
+2026-05-18, 15:01, APP0025, CUST003, Car Wash completed !!!
+2026-05-19, 12:00, APP0044, CUST008, Friendly staff and efficient service
+2026-05-19, 12:30, APP0044, TECH002, Come back soon!
+2026-05-20, 09:00, APP0040, CUST004, Very knowledgeable technicians
+2026-05-20, 09:30, APP0040, TECH001, Happy to help!
+2026-05-20, 14:00, APP0023, CUST001, Impressive attention to detail
+2026-05-20, 14:30, APP0023, TECH003, Your satisfaction matters to us!
