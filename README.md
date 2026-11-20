@@ -1,6 +1,6 @@
 # APU_Automotive_Service_Centre
 
-# 🛠️ APU Appliance Service Center (ASC) Management System
+# 🛠️ APU Automotive Service Center (ASC) Management System
 **Module Code:** CT038-3-2-OODJ-L-3 (Object-Oriented Development with Java)  
 **Intake Code:** APU2F2602SE & APD2F2602SE
 
